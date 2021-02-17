@@ -15,7 +15,7 @@ html {
 }
 .promo {
   min-height: 800px;
-  background: url(../img/promo_bg.jpg) center center/cover no-repeat;
+  background: url(../img/promo_bg1.png) center center/cover no-repeat;
   padding: 39px 62px;
 }
 .logo .promo_icon {
@@ -88,6 +88,7 @@ h2.title {
   height: 80px;
   background-image: linear-gradient(0deg, #2798b9 0%, #3ab6da 100%);
   border: 4px solid rgba(0, 0, 0, 0.22);
+  border-radius: 5px;
   box-shadow: inset 0px -5px 0px 0px rgba(0, 0, 0, 0.17);
   box-shadow: -1px -1px 0px 0px rgba(0, 0, 0, 0.21);
   font-family: RobotoCondensed;
